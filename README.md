@@ -13,6 +13,8 @@
   Install all the dependencies listed in the package.json file. Ensure to setup a mysql login and download mysql to your computer.  You will need to load your credentials in a .env file on your computer.
 ## Usage
   After installation, run nodemon server from the command line.  Utilize insomnia or postman to test each of the routes.
+  
+ [![E-commerce.png](https://i.postimg.cc/7h7DpvP8/E-commerce.png)](https://postimg.cc/GTcZy5sq)
 ## License
     This application is covered by the APACHE license.
 ## Contributing
