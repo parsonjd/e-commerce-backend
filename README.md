@@ -1,7 +1,7 @@
 # E-commerce Backend
   ![Badge](https://img.shields.io/badge/License-APACHE-blue.svg)
   ## Description
-  This is an E-commerce backend utilizing node.js that involves the use of an express.js server and a SQL database.. It utilizes sequelize as its ORM tool to convert data to and from the database.  Insomnia is used since this is only a backend application.
+  This is an E-commerce backend utilizing node.js that uses an express.js server and a SQL database. It utilizes sequelize as its ORM tool to convert data to and from the database.  Insomnia is used since this is only a backend application.
 ## Table of Content
 - [Installation](#installation)
 - [Usage](#usage)
